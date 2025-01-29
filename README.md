@@ -72,5 +72,6 @@ If it logs in without asking for a password, the setup is successful!
 
 
  /\_/\  
-( o.o )  < Well done  
+( o.o ) 
  > ^ <
+
