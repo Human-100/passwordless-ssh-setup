@@ -70,5 +70,7 @@ If it logs in without asking for a password, the setup is successful!
   - The SSH configuration allows public key authentication (`PubkeyAuthentication yes` in `/etc/ssh/sshd_config`).
   - SELinux/AppArmor is not blocking SSH (check logs via `journalctl -u ssh` or `/var/log/auth.log`).
 
-;)
 
+ /\_/\  
+( o.o )  < Well done  
+ > ^ <
