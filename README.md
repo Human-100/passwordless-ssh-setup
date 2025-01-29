@@ -71,4 +71,4 @@ If it logs in without asking for a password, the setup is successful!
   - SELinux/AppArmor is not blocking SSH (check logs via `journalctl -u ssh` or `/var/log/auth.log`).
 
 
-0-0 <- Well Done Mate!
+**0-0 <- Well Done Mate!**
